@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: tomato;
+    cursor: pointer;
+}
+.buy{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: tomato;
+    border-radius: 10px;
+    border: 1px solid tomato;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
+#mainBox{
+    width: 60%;
+    height: 550px;
+    margin: auto;
+    margin-left: 60px;
+    margin-top: 80px;
+}
+alert{
+    border: 1px solid gray;
+    border-radius: 30px;
+    color: white;
+    background-color: tomato;
+}
